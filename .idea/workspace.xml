@@ -19,29 +19,39 @@
       <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/OtherComponents.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/Salad.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/SaladComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/SortByCalories.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/Vegetables.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/view/Viewer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task Chef/resource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task Chef/resource_ru_RU.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Task Chef/resource_uk_UA.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/controller/InputController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/controller/MainController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/controller/ResourceController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/model/OtherComponents.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/model/Salad.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/model/SaladComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/model/SortByCalories.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/model/Vegetables.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/view/Viewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource_ru_RU.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resource_uk_UA.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLOCK2/JavaGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BLOCK2/JavaGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLOCK3/Notebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BLOCK3/Notebook/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLOCK3/Notebook/out/production/Notebook/com/company/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BLOCK3/Notebook/out/production/Notebook/com/company/controller/MainController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BLOCK3/Notebook/out/production/Notebook/com/company/model/NotUniqueNickname.class" beforeDir="false" afterPath="$PROJECT_DIR$/../BLOCK3/Notebook/out/production/Notebook/com/company/model/NotUniqueNickname.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task Chef.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task Chef.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/InputController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/InputController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/MainController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/ResourceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/controller/ResourceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/Salad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/Salad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/com/company/model/SortByCalories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/resource.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/resource_ru_RU.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Task Chef/resource_uk_UA.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/controller/InputController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/controller/InputController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/controller/ResourceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/controller/ResourceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/model/Salad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/model/Salad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/model/SortByCalories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/resource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource_ru_RU.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/resource_ru_RU.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resource_uk_UA.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/resource_uk_UA.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,10 +63,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/controller/ResourceController.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/model/Salad.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#1177#1178#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/tests/TestSaladComponent.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,26 +88,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/model/OtherComponents.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="30">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
               <folding>
                 <element signature="e#426#427#0" expanded="true" />
                 <element signature="e#491#492#0" expanded="true" />
                 <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/model/Salad.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tests/TestSalad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="360">
+              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-631">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="405">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,31 +128,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/resource_uk_UA.properties">
+        <entry file="file://$PROJECT_DIR$/Task Chef.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state>
+              <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/model/SaladComponent.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/Viewer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/model/SortByCalories.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="495">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#820#821#0" expanded="true" />
+                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,8 +160,6 @@
               <folding>
                 <element signature="e#423#424#0" expanded="true" />
                 <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-                <element signature="e#538#539#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -152,14 +168,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/controller/InputController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="300">
+              <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
               <folding>
                 <element signature="e#150#151#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/model/SaladComponent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -188,14 +211,21 @@
         <option value="$PROJECT_DIR$/src/com/company/model/SaladComponent.java" />
         <option value="$PROJECT_DIR$/src/com/company/model/Vegetables.java" />
         <option value="$PROJECT_DIR$/src/com/company/view/Viewer.java" />
-        <option value="$PROJECT_DIR$/src/resources/resource.properties" />
         <option value="$PROJECT_DIR$/src/resources/resource_RU.properties" />
         <option value="$PROJECT_DIR$/src/resources/resource_UA.properties" />
-        <option value="$PROJECT_DIR$/src/com/company/model/Salad.java" />
-        <option value="$PROJECT_DIR$/src/com/company/controller/ResourceController.java" />
         <option value="$PROJECT_DIR$/src/com/company/model/OtherComponents.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/Salad.java" />
+        <option value="$PROJECT_DIR$/src/resource_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/resources/resource_ru_RU.properties" />
+        <option value="$PROJECT_DIR$/src/resources/resource_uk_UA.properties" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/ResourceController.java" />
         <option value="$PROJECT_DIR$/src/com/company/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/resources/resource_en_US.properties" />
+        <option value="$PROJECT_DIR$/src/resources/resource.properties" />
+        <option value="$PROJECT_DIR$/src/tests/SaladTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/controller/InputController.java" />
+        <option value="$PROJECT_DIR$/src/tests/TestSaladComponent.java" />
+        <option value="$PROJECT_DIR$/src/tests/TestSalad.java" />
       </list>
     </option>
   </component>
@@ -222,35 +252,7 @@
             </path>
             <path>
               <item name="Task Chef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task Chef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task Chef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task Chef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Task Chef" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Task Chef" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -261,12 +263,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560770869389" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561035811424" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestSalad">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Task Chef" />
@@ -292,9 +303,73 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestSalad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task Chef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestSalad" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSaladComponent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task Chef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestSaladComponent" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSalad.testCalculateSaladCalories" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task Chef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestSalad" />
+      <option name="METHOD_NAME" value="testCalculateSaladCalories" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSalad.testFindByCalorie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task Chef" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.TestSalad" />
+      <option name="METHOD_NAME" value="testFindByCalorie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestSalad" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestSalad.testFindByCalorie" />
+        <item itemvalue="JUnit.TestSaladComponent" />
+        <item itemvalue="JUnit.TestSalad.testCalculateSaladCalories" />
       </list>
     </recent_temporary>
   </component>
@@ -311,62 +386,99 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestSalad_testCalculateSaladCalories - 2019.06.20 at 15h 06m 42s.xml">
+      <configuration name="TestSalad.testCalculateSaladCalories" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad - 2019.06.20 at 15h 20m 42s.xml">
+      <configuration name="TestSalad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad - 2019.06.20 at 15h 20m 53s.xml">
+      <configuration name="TestSalad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad - 2019.06.20 at 15h 21m 18s.xml">
+      <configuration name="TestSalad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad - 2019.06.20 at 15h 23m 49s.xml">
+      <configuration name="TestSalad" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSaladComponent - 2019.06.20 at 15h 30m 44s.xml">
+      <configuration name="TestSaladComponent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSaladComponent - 2019.06.20 at 15h 32m 09s.xml">
+      <configuration name="TestSaladComponent" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad_testFindByCalorie - 2019.06.20 at 15h 51m 27s.xml">
+      <configuration name="TestSalad.testFindByCalorie" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSalad - 2019.06.20 at 15h 59m 30s.xml">
+      <configuration name="TestSalad" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32937366" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.255119" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/view/Viewer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-            <element signature="e#911#912#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/model/SaladComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -381,6 +493,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/resource_ru_RU.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="127" selection-start-line="8" selection-start-column="127" selection-end-line="8" selection-end-column="127" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/resource_uk_UA.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="124" selection-start-line="8" selection-start-column="124" selection-end-line="8" selection-end-column="124" />
+        </state>
+      </provider>
+      <provider editor-type-id="ResourceBundle" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/resource_en_US.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="96" selection-start-line="8" selection-start-column="96" selection-end-line="8" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/Viewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task Chef.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/model/Vegetables.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -388,70 +562,44 @@
           <folding>
             <element signature="e#423#424#0" expanded="true" />
             <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/SaladComponent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource_ru_RU.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource_uk_UA.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/model/Salad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="179">
+          <caret line="12" column="62" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1177#1178#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/controller/InputController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="300">
+          <caret line="22" column="25" lean-forward="true" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
           <folding>
             <element signature="e#150#151#0" expanded="true" />
             <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-631">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/controller/ResourceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="405">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -460,16 +608,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/model/OtherComponents.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding>
             <element signature="e#426#427#0" expanded="true" />
             <element signature="e#491#492#0" expanded="true" />
             <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestSaladComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestSalad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Task Chef</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.bluecatcode.junit:junit-4.10-extended:1.0.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

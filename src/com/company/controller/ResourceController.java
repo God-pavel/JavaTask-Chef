@@ -6,7 +6,7 @@ import java.util.ResourceBundle;
 
 public enum ResourceController {
 
-    USER_INTERFACE("resource");
+    USER_INTERFACE("resources/resource");
 
     private ResourceBundle resourceBundle;
     private String resourceName;

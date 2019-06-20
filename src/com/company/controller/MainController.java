@@ -25,7 +25,7 @@ public class MainController {
             Locale locale;
             switch (menuNum){
                 case "1":
-                    locale = Locale.getDefault();
+                    locale = new Locale("en","US");
                     viewer.getUIManager().changeResource(locale);
                     onMenu = false;
                     break;
@@ -58,8 +58,6 @@ public class MainController {
 
     public void startMenu(){
         viewer.printMessage(viewer.getUIManager().getString(viewer.PROGRAM_STARTED));
-        chooseLanguage();
-
         viewer.printComponents(salad.getComponents());
 
         boolean onMenu = true;
@@ -79,6 +77,9 @@ public class MainController {
                     getBorders();
                     break;
                 case "4":
+                    chooseLanguage();
+                    break;
+                case "5":
                     viewer.printMessage(viewer.getUIManager().getString(viewer.PROGRAM_CLOSED));
                     onMenu = false;
                     break;

@@ -20,7 +20,7 @@ public class InputController {
                 sc.next();
             }
             number = sc.nextInt();
-        } while (number <= 0);
+        } while (number < 0);
         return number;
     }
 }

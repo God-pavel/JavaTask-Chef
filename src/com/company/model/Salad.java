@@ -2,6 +2,7 @@ package com.company.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+
 import java.util.List;
 
 public class Salad {
@@ -38,6 +39,6 @@ public class Salad {
 
 
     public void sortByCalorie(){
-        components.sort(new SortByCalories());
+        components.sort((c1, c2) -> (int)(c1.calcCalories() - c2.calcCalories()));
     }
 }
