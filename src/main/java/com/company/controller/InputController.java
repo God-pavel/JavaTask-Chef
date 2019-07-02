@@ -1,30 +1,40 @@
 package com.company.controller;
+
 import java.util.Scanner;
+
 /**
  * Класс для получения значений из комндной строки.
- * @autor Павел Панкратов
+ *
+ * @author Павел Панкратов
  * @version 1.0
  */
 
 public class InputController {
 
-    /** Поле сканнер  */
+    /**
+     * Поле сканнер
+     */
     private Scanner scanner;
 
-    /** Конструктор - создание нового сканера  */
+    /**
+     * Конструктор - создание нового сканера
+     */
     public InputController() {
         scanner = new Scanner(System.in);
     }
 
     /**
      * Метод получения значения строки
+     *
      * @return возвращает строку
      */
     public String readLine() {
         return scanner.nextLine();
     }
+
     /**
      * Метод получения числового значения
+     *
      * @return возвращает введеное число
      */
     public int readInt() {

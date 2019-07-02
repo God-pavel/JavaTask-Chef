@@ -1,4 +1,5 @@
 package com.company;
+
 import com.company.controller.InputController;
 import com.company.controller.MainController;
 import com.company.model.Salad;

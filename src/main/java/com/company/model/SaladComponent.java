@@ -2,15 +2,21 @@ package com.company.model;
 
 /**
  * Интерфейс компонентов салата.
- * @autor Павел Панкратов
+ *
+ * @author Павел Панкратов
  * @version 1.0
  */
 
 public interface SaladComponent {
 
-    /** Метод подсчета калорийности компонента */
-    double calcCalories();
-    /** Метод получения имени компонента */
+    /**
+     * Метод подсчета калорийности компонента
+     */
+    float calcCalories();
+
+    /**
+     * Метод получения имени компонента
+     */
     String getName();
 
 }
