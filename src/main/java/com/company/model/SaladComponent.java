@@ -12,7 +12,7 @@ public interface SaladComponent {
     /**
      * Метод подсчета калорийности компонента
      */
-    float calcCalories();
+    double calcCalories();
 
     /**
      * Метод получения имени компонента

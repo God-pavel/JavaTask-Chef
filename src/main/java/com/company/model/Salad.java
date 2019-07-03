@@ -3,6 +3,7 @@ package com.company.model;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 /**
  * Класс салат содержит компоненты салата и методы для них
@@ -41,12 +42,11 @@ public class Salad {
      *
      * @return возвращает калорийность
      */
-    public int calculateSaladCalories() {
-        int calories = 0;
-        for (SaladComponent component : components) {
-            calories += component.calcCalories();
-        }
-        return calories;
+    public double calculateSaladCalories() {
+
+        return components.stream()
+                .map(i->i.calcCalories())
+                .reduce((double)0,(left,right)->left+right);
     }
 
     /**
@@ -57,13 +57,10 @@ public class Salad {
      * @return возвращает список найденых компонентов
      */
     public List<SaladComponent> findByCalorie(int lowerLimit, int upperLimit) {
-        List<SaladComponent> finded = new ArrayList<>();
-        for (SaladComponent component : components) {
-            if (component.calcCalories() > lowerLimit && component.calcCalories() < upperLimit) {
-                finded.add(component);
-            }
-        }
-        return finded;
+
+        return components.stream()
+                .filter(i->i.calcCalories()<upperLimit && i.calcCalories()>lowerLimit)
+                .collect(Collectors.toList());
     }
 
     /**

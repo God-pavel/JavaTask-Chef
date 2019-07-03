@@ -19,8 +19,8 @@ public class TestSalad {
     @Test
     public void testCalculateSaladCalories(){
         Salad salad = new Salad();
-        int result = salad.calculateSaladCalories();
-        Assert.assertEquals (1346,result);
+        double result = salad.calculateSaladCalories();
+        Assert.assertEquals (1346,result,0.6);
     }
     /** Метод тестировки метода поиска компонентов салата за калорийностью  */
     @Test

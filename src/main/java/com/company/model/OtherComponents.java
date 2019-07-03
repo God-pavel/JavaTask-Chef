@@ -39,7 +39,7 @@ public enum OtherComponents implements SaladComponent {
      * @return возвращает значение калорийности
      */
     @Override
-    public final float calcCalories() {
+    public final double calcCalories() {
         return (float) (mass * caloriesPerHundredGrams) / 100;
     }
 

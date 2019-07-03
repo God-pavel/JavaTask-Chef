@@ -41,7 +41,7 @@ public enum Vegetables implements SaladComponent {
      * @return возвращает значение калорийности
      */
     @Override
-    public final float calcCalories() {
+    public final double calcCalories() {
         return amount * caloriesPerUnit;
     }
 
